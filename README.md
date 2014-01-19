@@ -13,8 +13,8 @@ Adds the ability to add a description to your post type in your theme templates.
 
 Seeks to improve the data available when viewing all pages by replacing the current admin columns with:
 
-*The template that is being used
-*The date that the page was last updated.
+* The template that is being used
+* The date that the page was last updated.
 
 ## Contribute
 
